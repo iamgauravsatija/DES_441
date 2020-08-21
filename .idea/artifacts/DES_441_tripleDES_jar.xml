@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="DES_441_tripleDES:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/DES_441_tripleDES_jar</output-path>
+    <root id="archive" name="DES_441.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/src/Triple_DES/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="DES_441" />
+    </root>
+  </artifact>
+</component>
